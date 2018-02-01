@@ -34,6 +34,11 @@ public class Test extends JFrame
      dinerFrame.setVisible(true); 
         
     }
+    
+    public void testRadioButton()
+    {
+        
+    }
 
   }
     
